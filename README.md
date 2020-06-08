@@ -1,7 +1,7 @@
 # ML_Model_for_customer_segmentation_to_define_marketing_strategy
 Author: Parameswara rao
 
-Date: 05 April 2020
+Date: 05 Jan 2020
 
 I implimented clustering model by using CC GENERAL.csv data set to develop a customer segmentation to define marketing strategy. This project is organized as follows:
 
